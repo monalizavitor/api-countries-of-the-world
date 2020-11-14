@@ -26,4 +26,5 @@ O JSON usado para manipulação dos dados está disponível [neste repositório]
 * Cors
 
 
-#### Para iniciar dê um **npm install** e depois **npm start**!
+#### Para iniciar
+`npm install && npm start`
